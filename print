@@ -1,0 +1,19 @@
+print('rohit','gupta',end='')
+print('god')
+print(end='')
+print('i am great',5,4,sep='\n')
+a=3,4,'rohit'
+print(a)
+b="hello"
+print(b)
+d='poi'
+e='hji'
+print(d+e)
+f=8
+g=34
+print(f+g)
+a=print
+a(5)
+p=input('entre')
+q=input()
+print(p+q)

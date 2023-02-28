@@ -1,0 +1,14 @@
+a='helloiyugctigf'
+print(a[2:10]) 
+a=34
+c=56
+sum=a+c
+out=f"sum of two numbers {a}and {c} is {sum}" 
+print(out) 
+a=6.678905
+print(f'the value of a is {a:10.2f}')
+a='pokemon'
+print(f'the value of a is {a:>12}')
+a='pokemon'
+print(f'the value of a is {a[1:2]}')
+
