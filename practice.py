@@ -1,0 +1,8 @@
+a=int(input())
+b=int(input())
+print("the vaiue of a+b",int(a)+int(b))
+print("the vaiue of a*b",a*b)
+print("the vaiue of a/b",a/b)
+print("the vaiue of a-b",a-b)
+print("the value of a\nuaay")
+print("the value of b is",b)
